@@ -1,0 +1,13 @@
+{
+    "id": 1234567,
+    "name": "일거에 척결해버려야 할 이름",
+    "author": "반국가 세력의 이름",
+    "creators": ["반국가세력 단원들의 이름"],
+    "verifier": "반국가세력 용병의 이름",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+
+    ]
+}
